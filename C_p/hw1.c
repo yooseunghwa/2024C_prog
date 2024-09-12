@@ -7,6 +7,8 @@ int main(void){
     int test=912;
 
     print("%d",test);
+
+    print("test2");
     
 
     return 0;
